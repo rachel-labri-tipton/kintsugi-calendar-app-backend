@@ -13,7 +13,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // Database connection
-mongoose.connect('mongodb://localhost:27017/kintsugi-calendar', {
+mongoose.connect('connection string', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });

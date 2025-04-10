@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Database connection
-mongoose.connect('mongodb://user:2iBWGZXfwgD14PrT@cluster0.c6s64.mongodb.net/?tls=true', {
+mongoose.connect('connection string', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
