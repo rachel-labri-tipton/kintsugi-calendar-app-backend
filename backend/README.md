@@ -88,10 +88,6 @@ To get started with the Kintsugi Calendar App, follow these steps:
    npm start
    ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
